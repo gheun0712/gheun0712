@@ -15,8 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=GaHeun%20KIM&fontSize=90)
+
+<div align="center">
+
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgheun712&count_bg=%23F102B6&title_bg=%23555555&icon=ghostery.svg&icon_color=%23E7E7E7&title=hi%3A%29&edge_flat=false)](https://github.com/gheun712)
 
