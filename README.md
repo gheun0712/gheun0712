@@ -48,3 +48,7 @@ Here are some ideas to get you started:
 ![YouTube Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)
 
 </div>
+
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=GaHeun%20KIM&fontSize=90&animation=blinking 1.6s&rotate=-180)
+
+
