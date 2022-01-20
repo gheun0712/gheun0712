@@ -19,8 +19,9 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-![image](C:\Users\USER\Desktop\싸피\디즈니 라푼젤 이미지_배경화면_텀블러_움짤_사진.gif)
-  
+
+![디즈니 라푼젤 이미지_배경화면_텀블러_움짤_사진](https://user-images.githubusercontent.com/97588019/150247143-18d5221f-d8c5-4ad7-8886-1a7e4b8ce9b4.gif)
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgheun712&count_bg=%23F102B6&title_bg=%23555555&icon=ghostery.svg&icon_color=%23E7E7E7&title=hi%3A%29&edge_flat=false)](https://github.com/gheun712)
 
 ![Playstation 4](https://img.shields.io/badge/Playstation%204-003791?style=for-the-badge&logo=playstation-4&logoColor=white)
