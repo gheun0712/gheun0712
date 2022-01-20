@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-![디즈니 라푼젤 이미지_배경화면_텀블러_움짤_사진](C:\Users\USER\Desktop\싸피\디즈니 라푼젤 이미지_배경화면_텀블러_움짤_사진.gif)
+![image](C:\Users\USER\Desktop\싸피\디즈니 라푼젤 이미지_배경화면_텀블러_움짤_사진.gif)
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgheun712&count_bg=%23F102B6&title_bg=%23555555&icon=ghostery.svg&icon_color=%23E7E7E7&title=hi%3A%29&edge_flat=false)](https://github.com/gheun712)
 
