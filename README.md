@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 
 </div>
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=GaHeun%20KIM&fontSize=90&animation=blinking 1.6s&rotate=-180)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&rotate=-180)
 
 
