@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=GaHeun%20KIM&fontSize=90)
 
 <div align="center">
+  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhitcounter&count_bg=%23C12BCA&title_bg=%23555555&icon=azurepipelines.svg&icon_color=%23EF0202&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ![Playstation 4](https://img.shields.io/badge/Playstation%204-003791?style=for-the-badge&logo=playstation-4&logoColor=white)
 ![Battle.net](https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white)
