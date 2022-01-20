@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 
 </div>
 
-![header](https://capsule-render.vercel.app/api?type=sharke&color=auto&height=300&section=header)
+![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=300&section=header)
 
 
