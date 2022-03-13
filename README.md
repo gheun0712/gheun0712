@@ -28,7 +28,6 @@ Here are some ideas to get you started:
 
 💎Coding💎
 <br>
-![박력 코딩](https://user-images.githubusercontent.com/97588019/158060459-1e77c3ef-c937-43ef-abe1-3753157559fc.gif)
 <br>
 <br>
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
