@@ -28,15 +28,18 @@ Here are some ideas to get you started:
   
   
 💎Coding💎
- 
+
+![박력 코딩](https://user-images.githubusercontent.com/97588019/158060459-1e77c3ef-c937-43ef-abe1-3753157559fc.gif)
+  <br>
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-important?style=for-the-badge&logo=django&logoColor=blueviolet)
 ![Pycharm](https://img.shields.io/badge/pycharm-3670A0?style=for-the-badge&logo=pycharm&logoColor=ffdd54)
-![VSCODE](https://img.shields.io/badge/#007ACC-3670A0?style=for-the-badge&logo=vscode&logoColor=ffdd54)
+<img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+출처: https://byul91oh.tistory.com/214 [개꼬 [: 개발하는 꼬바리]]
 ![GIT](https://img.shields.io/badge/git-yellowgreen?style=for-the-badge&logo=git&logoColor=9cf)
 <br>
-![박력 코딩](https://user-images.githubusercontent.com/97588019/158060459-1e77c3ef-c937-43ef-abe1-3753157559fc.gif)
+
 ---  
 
 🎮Favroite🎮
