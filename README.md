@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=GaHeun%20KIM&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=300&section=header&text=GaHeun%20KIM&fontSize=50&animation=blink)
 
 <div align="center">
 
@@ -63,6 +63,6 @@ Here are some ideas to get you started:
 
 </div>
 
-![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=300&section=header)
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=100&section=header)
 
 
