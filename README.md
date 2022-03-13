@@ -1,21 +1,5 @@
 
-
-<!--
-**gheun712/gheun712** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=300&section=header&text=GaHeun%20KIM&fontSize=50&animation=blink)
+![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=300&section=header&text=❤GaHeun%20KIM❤&fontSize=50&animation=blink)
 
 <div align="center">
 
@@ -61,8 +45,7 @@ Here are some ideas to get you started:
 ![Apple Music](https://img.shields.io/badge/Apple_Music-9933CC?style=for-the-badge&logo=apple-music&logoColor=white)
 ![YouTube Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)
 
-</div>
 
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=100&section=header)
 
-
+</div>
