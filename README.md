@@ -30,7 +30,8 @@ Here are some ideas to get you started:
 💎Coding💎
  
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  <br>
 ![박력 코딩](https://user-images.githubusercontent.com/97588019/158060459-1e77c3ef-c937-43ef-abe1-3753157559fc.gif)
 ---  
 
