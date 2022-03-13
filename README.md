@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 ![Django](https://img.shields.io/badge/django-important?style=for-the-badge&logo=django&logoColor=blueviolet)
 ![Pycharm](https://img.shields.io/badge/pycharm-3670A0?style=for-the-badge&logo=pycharm&logoColor=ffdd54)
 <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-출처: https://byul91oh.tistory.com/214 [개꼬 [: 개발하는 꼬바리]]
+<img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 ![GIT](https://img.shields.io/badge/git-yellowgreen?style=for-the-badge&logo=git&logoColor=9cf)
 <br>
 
