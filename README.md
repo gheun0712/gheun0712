@@ -25,9 +25,8 @@ Here are some ideas to get you started:
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgheun712&count_bg=%23F102B6&title_bg=%23555555&icon=ghostery.svg&icon_color=%23E7E7E7&title=hi%3A%29&edge_flat=false)](https://github.com/gheun712)
 
-<br>
+
 💎Coding💎
-<br>
 <br>
 ![박력 코딩](https://user-images.githubusercontent.com/97588019/158060459-1e77c3ef-c937-43ef-abe1-3753157559fc.gif)
 <br>
