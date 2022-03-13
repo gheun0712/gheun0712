@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 <div align="center">
 
 
-![디즈니 라푼젤 이미지_배경화면_텀블러_움짤_사진](https://user-images.githubusercontent.com/97588019/150247143-18d5221f-d8c5-4ad7-8886-1a7e4b8ce9b4.gif)
-<
+![디즈니 라푼젤 이미지_배경화면_텀블러_움짤_사진](https://user-images.githubusercontent.com/97588019/150247143-18d5221f-d8c5-4ad7-8886-1a7e4b8ce9b4.gif)<br>
+
 ![박력 코딩](https://user-images.githubusercontent.com/97588019/158060459-1e77c3ef-c937-43ef-abe1-3753157559fc.gif)
 
 
