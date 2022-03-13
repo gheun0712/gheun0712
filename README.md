@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=180&section=header&text=❤GaHeun%20KIM❤&fontSize=50&animation=blink)
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=180&section=header&text=❤GaHeun%20KIM❤&fontSize=50&animation=fadeIn)
 
 
 ![디즈니 라푼젤 이미지_배경화면_텀블러_움짤_사진](https://user-images.githubusercontent.com/97588019/150247143-18d5221f-d8c5-4ad7-8886-1a7e4b8ce9b4.gif)
