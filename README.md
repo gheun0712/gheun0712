@@ -43,6 +43,9 @@
 <br>
 ![Apple Music](https://img.shields.io/badge/Apple_Music-9933CC?style=for-the-badge&logo=apple-music&logoColor=white)
 ![YouTube Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)
+ 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rkgms0712)](https://solved.ac/rkgms0712/)
+
 
 
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=100&section=header)
