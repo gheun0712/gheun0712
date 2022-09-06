@@ -26,16 +26,6 @@
 
 ---  
 
-🎮Favroite🎮
-<br>
-<br>
-<br>
-![Playstation 4](https://img.shields.io/badge/Playstation%204-003791?style=for-the-badge&logo=playstation-4&logoColor=white)
-![Battle.net](https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white)
-![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
-
-  
----
  
 🎈Beyond Imagination🎈
 
