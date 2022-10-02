@@ -18,7 +18,7 @@
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JS](https://img.shields.io/badge/js-3670A0?style=for-the-badge&logo=js&logoColor=ffdd54)
-![Vue](https://img.shields.io/badge/vuw-3670A0?style=for-the-badge&logo=vue&logoColor=ffdd54)
+![Vue](https://img.shields.io/badge/vue-3670A0?style=for-the-badge&logo=vue&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-important?style=for-the-badge&logo=django&logoColor=blueviolet)
 ![Pycharm](https://img.shields.io/badge/pycharm-3670A0?style=for-the-badge&logo=pycharm&logoColor=ffdd54)
 <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
