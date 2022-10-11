@@ -16,6 +16,15 @@
 <br>
 👩‍💻IDE
 <br>
+<br>
+🖥Coding
+<br>
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JS](https://img.shields.io/badge/js-3670A0?style=for-the-badge&logo=js&logoColor=ffdd54)
+![Vue](https://img.shields.io/badge/vue-3670A0?style=for-the-badge&logo=vue&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/django-important?style=for-the-badge&logo=django&logoColor=blueviolet)
+![Pycharm](https://img.shields.io/badge/pycharm-3670A0?style=for-the-badge&logo=pycharm&logoColor=ffdd54)
+<br>
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JS](https://img.shields.io/badge/js-3670A0?style=for-the-badge&logo=js&logoColor=ffdd54)
