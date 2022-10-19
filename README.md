@@ -14,28 +14,24 @@
 💎Programming💎
 <br>
 <br>
-👩‍💻IDE
-<br>
-<br>
-🖥Coding
-<br>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JS](https://img.shields.io/badge/js-3670A0?style=for-the-badge&logo=js&logoColor=ffdd54)
-![Vue](https://img.shields.io/badge/vue-3670A0?style=for-the-badge&logo=vue&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-important?style=for-the-badge&logo=django&logoColor=blueviolet)
-![Pycharm](https://img.shields.io/badge/pycharm-3670A0?style=for-the-badge&logo=pycharm&logoColor=ffdd54)
-<br>
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JS](https://img.shields.io/badge/js-3670A0?style=for-the-badge&logo=js&logoColor=ffdd54)
-![Vue](https://img.shields.io/badge/vue-3670A0?style=for-the-badge&logo=vue&logoColor=ffdd54)
-![Django](https://img.shields.io/badge/django-important?style=for-the-badge&logo=django&logoColor=blueviolet)
-![Pycharm](https://img.shields.io/badge/pycharm-3670A0?style=for-the-badge&logo=pycharm&logoColor=ffdd54)
 <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-![GIT](https://img.shields.io/badge/git-yellowgreen?style=for-the-badge&logo=git&logoColor=9cf)
 <br>
+![Pycharm](https://img.shields.io/badge/pycharm-3670A0?style=for-the-badge&logo=pycharm&logoColor=ffdd54)
+![VisualStudioCode](https://img.shields.io/badge/VisualStudioCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white)
+![GIT](https://img.shields.io/badge/git-yellowgreen?style=for-the-badge&logo=git&logoColor=9cf)
+  
+📰Notion📰
 
+ 
+<a href="https://tourmaline-soy-98c.notion.site/Gana-s-notion-3b156a24dbaf412db5fa639657029404"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/></a>
+<br>
+  
+    
 ---  
 
  
